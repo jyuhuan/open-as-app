@@ -1,2 +1,6 @@
-# open-as-app
-Open Chrome as a native-like app
+## Open as App
+This automator asks Chrome to open any URL as a native-like app. 
+
+### How to Use
+Double click on the app, it will ask for the URL to open. Enter any URL, and click OK. 
+Use this to avoid seeing the address bar, and to have a native feeling while browsing web sites that design their pages like apps.
